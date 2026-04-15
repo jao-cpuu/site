@@ -26,4 +26,4 @@ Disallow: /
 User-agent: *
 Disallow: 
 Disallow: admin
-Sitemap: http://www.sitemaps.org/schemas/sitemap/0.9
+Sitemap: https://jao-cpuu.github.io/site/sitemap.xml
