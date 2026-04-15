@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jao-cpuu.github.io/site-faculdade/sitemap.xml
